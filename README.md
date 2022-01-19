@@ -18,4 +18,4 @@ I would like to grow my career as a full stack java developer.
 [Github](https://github.com/NikithaMN-05)
 
 ## Image
-<img scr="https://github.com/NikithaMN-05/big-data-dev/blob/main/nikitha.jpg" width="250">
+<img src="https://github.com/NikithaMN-05/big-data-dev/blob/main/nikitha.jpg" width="250">
