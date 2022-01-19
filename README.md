@@ -1,4 +1,5 @@
 # big-data-dev
+this repo contains details about me
 
 # Narsing Rao Nikitha Madhari
 
@@ -15,3 +16,6 @@ I would like to grow my career as a full stack java developer.
 [LinkedIn](https://www.linkedin.com/in/nikitha-mn-42b2451aa/)
 
 [Github](https://github.com/NikithaMN-05)
+
+## Image
+<img scr="https://github.com/NikithaMN-05/big-data-dev/blob/main/nikitha.jpg" width="250">
