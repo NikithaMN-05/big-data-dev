@@ -11,6 +11,7 @@ I'm from Hyderabad, India. I have completed my bachelors in Information Technolo
 ## Plans
 I would like to grow my career as a full stack java developer.
 
-##Links
+## Links
 [LinkedIn](https://www.linkedin.com/in/nikitha-mn-42b2451aa/)
+
 [Github](https://github.com/NikithaMN-05)
